@@ -20,3 +20,14 @@ public class HollowPattern_3 {
 	
 
 }
+/*
+ 
+ 
+*   *
+ * * 
+  *  
+ * * 
+*   *
+
+
+*/

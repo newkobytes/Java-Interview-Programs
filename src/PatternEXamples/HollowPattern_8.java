@@ -19,3 +19,13 @@ public class HollowPattern_8 {
 	}
 
 }
+
+/*
+
+*********
+ *     *
+  *   *
+   * *
+    *
+
+*/
